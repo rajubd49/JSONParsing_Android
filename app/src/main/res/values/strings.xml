@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JSONParsingAndroid</string>
+    <string name="title">Title</string>
+    <string name="overview">Overview</string>
+    <string name="poster">poster</string>
+    <string name="movielist">Movie List</string>
+    <string name="details">Movie Details</string>
+</resources>

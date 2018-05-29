@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="text_title1">Happy Birthday</string>
+    <string name="text_title2">Raju</string>
+    <string name="hello">Hello Raju</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="signup">Signup</string>
+    <string name="text_one">Birthday</string>
+    <string name="text_two">Cake</string>
+    <string name="text_three">Celebration</string>
+    <string name="title_activity_calculator">CalculatorActivity</string>
+
+    <string name="clear">AC</string>
+    <string name="nine">9</string>
+    <string name="eight">8</string>
+    <string name="seven">7</string>
+    <string name="six">6</string>
+    <string name="five">5</string>
+    <string name="four">5</string>
+    <string name="three">3</string>
+    <string name="two">2</string>
+    <string name="one">1</string>
+    <string name="zero">0</string>
+    <string name="division">/</string>
+    <string name="multiply">X</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="dot">.</string>
+    <string name="equal">=</string>
+    <string name="title_activity_fragment">FragmentActivity</string>
+
+
+</resources>
